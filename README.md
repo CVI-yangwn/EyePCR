@@ -12,7 +12,7 @@
 [📄 Paper]() • 
 [💻 GitHub](https://github.com/CVI-yangwn/EyePCR)
 
-Reference
+# Reference
 
 ```
 @article{hu2024ophnet,
