@@ -22,7 +22,6 @@
   year={2024}
 }
 ```
-
 ```
 @inproceedings{Cataract-1K,
     author    = {Negin Ghamsarian and
@@ -34,10 +33,9 @@
                 Klaus Schoeffmann and
                 Raphael Sznitman},
     title     = {Cataract-1K: Cataract Surgery Dataset for Scene Segmentation, Phase Recognition, and Irregularity Detection (to appear)},
-
+    
 }
 ```
-
 ```
 @inproceedings{DBLP:conf/miccai/GhamsarianTPSES21,
     author    = {Negin Ghamsarian and
